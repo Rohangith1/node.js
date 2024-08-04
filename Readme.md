@@ -30,4 +30,9 @@ https://nodejs.org/api/fs.html
 
 **3.imported/external**
 
+<<<<<<< HEAD
+=======
+os moDULes:
+https://nodejs.org/api/os.html
+>>>>>>> 2baeca9b2c3915b7a3094d55ac1d2588e9272d56
 
