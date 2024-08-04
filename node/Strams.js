@@ -1,0 +1,4 @@
+//Readable
+//Writable
+//Duplex
+//Transform

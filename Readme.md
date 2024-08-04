@@ -32,3 +32,8 @@ https://nodejs.org/api/fs.html
 
 
 
+![alt text](1_iHhUyO4DliDwa6x_cO5E3A.gif) ***single threated / sync***
+
+## Event Loop in Node.js 
+![alt text](0_ZlD-iqmcgSWEHptT.png)
+![alt text](figure-1.png)
