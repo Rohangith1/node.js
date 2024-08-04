@@ -15,3 +15,6 @@ run : ``` node index.js``` in the terminal
 **2.in-build**
 
 **3.imported/external**
+
+os moDULes:
+https://nodejs.org/api/os.html
