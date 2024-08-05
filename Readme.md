@@ -37,3 +37,5 @@ https://nodejs.org/api/fs.html
 ## Event Loop in Node.js 
 ![alt text](0_ZlD-iqmcgSWEHptT.png)
 ![alt text](figure-1.png)
+
+REPL=> **Read Execute Print Loop**
