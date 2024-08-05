@@ -1,12 +1,12 @@
-// //local module
-// const add = (a, b) => {
-//   return a + b;
-// };
+//local module
+const add = (a, b) => {
+  return a + b;
+};
 
-// module.exports=add
+module.exports=add
 
-// // const sum = add(2, 3);
-// // console.log(sum);
+// const sum = add(2, 3);
+// console.log(sum);
 
 const a = "This"
 const b = "is"

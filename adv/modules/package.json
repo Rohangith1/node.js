@@ -1,0 +1,24 @@
+{
+  "name": "my-pkg",
+  "version": "1.1.1",
+  "description": "This is demo",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js",
+    "dev":"nodemon express.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node.js"
+  },
+  "keywords": [
+    "u"
+  ],
+  "author": "phu-ke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
